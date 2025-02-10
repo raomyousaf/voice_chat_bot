@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+gtts
+playsound
+requests
+groq
